@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\bin\Debug\net6.0\PhoneBook1.exe
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\bin\Debug\net6.0\PhoneBook1.deps.json
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\bin\Debug\net6.0\PhoneBook1.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\bin\Debug\net6.0\PhoneBook1.dll
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\bin\Debug\net6.0\PhoneBook1.pdb
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.dll
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\refint\PhoneBook1.dll
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.pdb
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\PhoneBook1.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\PhoneBook1\PhoneBook1\obj\Debug\net6.0\ref\PhoneBook1.dll
